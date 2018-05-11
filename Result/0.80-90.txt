@@ -1,0 +1,2 @@
+"Cluster Threshold" "Total Input sequence" "Number of Generated Cluster"
+0.8 90.0 7.0
