@@ -5,7 +5,7 @@
 ## ALGORITHM: RaTa
 
 ## Definition
-<img style="float: left;" src="Definition.png" width="400" height="800">
+<img style="float: left;" src="Definition.png" width="400" height="400">
 
 ## Method
 <img style="float: left;" src="Method.png" width="600" height="600">
