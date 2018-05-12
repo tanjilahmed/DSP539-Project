@@ -228,6 +228,7 @@ if __name__=="__main__":
 
 ########################End: Algorithm Step-5.2 ################################
 
+####################### Write output File ######################################
         df=pd.DataFrame()
         df[0]=[thresh_p,total_input_seq,c+1]
         df=df.T
@@ -235,7 +236,7 @@ if __name__=="__main__":
         #fname="Threshold"+thresh_p+".txt"
         df.to_csv("0.55-10.txt",index=False, sep=' ', header=True) # change filename according to threshold value and number of input sequences
 
-####################### Write output File ######################################
+
         #print(w_cmax)
         #print(l_cmax)
         for t in range(0,c+1):
