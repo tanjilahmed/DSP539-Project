@@ -51,4 +51,5 @@
 ###### 2. Code "R: in sequence means either "A" or "G"; Here "R" replaced by "A" arbitrarily
 ###### 3. Code "Y: in sequence means either "C" or "T"; Here "Y" replaced by "T" arbitrarily
 ###### 4. Code "M: in sequence means either "A" or "C"; Here "M" replaced by "C" arbitrarily
+###### 5. The algorithm can work any kind of sequence format; just need little modification on code
 ###### Reference: Fasta Code Meaning, <http://www.boekhoff.info/dna-fasta-codes/>
