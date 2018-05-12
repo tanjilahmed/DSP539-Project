@@ -5,10 +5,10 @@
 ## ALGORITHM: RaTa
 
 ## Definition
-<img style="float: left;" src="Definition.png" width="400" height="600">
+<img style="float: left;" src="Definition.png" width="500" height="600">
 
 ## Method
-<img style="float: left;" src="Method.png" width="400" height="600">
+<img style="float: left;" src="Method.png" width="600" height="600">
 
 ### IMPLEMENTATION
 
