@@ -1,5 +1,4 @@
-
-<font color=blue> # DSP 539: Project </font>
+# DSP 539: Project
 ## A New Approach for Clustering of Gene Sequences
 
 ## ALGORITHM: RaTa
